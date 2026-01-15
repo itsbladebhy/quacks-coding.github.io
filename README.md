@@ -1,1 +1,1 @@
-# quacks-coding.github.io
+# quack-code.github.io
